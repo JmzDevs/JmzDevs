@@ -1,0 +1,53 @@
+.principalTitle{
+    color: purple;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+.bodyStyle{
+    background-color: #2c2c2c;
+}
+
+.centerImage{
+    text-align: center;
+}
+
+.container{
+    padding: 0px 35px;
+}
+
+.downloadLink{
+    display: flex;
+    padding: 0px 35px;
+    background-color: rgb(0, 155, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+.downloadLink:hover{
+    background-color: rgb(0, 225, 255);
+}
+
+
+
+h1 {
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+p{
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
+
+h2{
+    color: white;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-weight: 900;
+}
